@@ -1,0 +1,6 @@
+id,_subServiceId,label,value
+101,43,3,High values (from above 20 A up to 100 A)
+100,43,2,Intermediate values (from above 0.1 mA to 20 A)
+99,43,1,Low values (below 0.1 mA)
+103,43,5,Noise currents
+102,43,4,Transconductance ratio

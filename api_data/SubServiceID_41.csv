@@ -1,0 +1,4 @@
+id,_subServiceId,label,value
+97,41,3,High values (above 1 gigaohm)
+96,41,2,Intermediate values (from above 1 ohm up to 1 gigaohm)
+95,41,1,Low values (<= 1 ohm)

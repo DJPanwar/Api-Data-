@@ -1,0 +1,4 @@
+id,_subServiceId,label,value
+106,44,3,High values (from above 20 A up to 100 A)
+105,44,2,Intermediate values (from above 0.1 mA to 20 A)
+104,44,1,Low values (below or equal to 0.1 mA)

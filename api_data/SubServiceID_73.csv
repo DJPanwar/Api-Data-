@@ -1,0 +1,4 @@
+id,_subServiceId,label,value
+249,73,1,Antenna factor
+250,73,2,Antenna gain
+251,73,3,"Other properties (pattern, beam width, …)"

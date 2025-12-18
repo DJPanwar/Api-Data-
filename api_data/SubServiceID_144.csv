@@ -1,0 +1,5 @@
+id,_subServiceId,label,value
+434,144,3,"Display, colour space: L*a*b"
+433,144,2,"General source, colour space: u-prime, v-prime"
+432,144,1,"General source, colour space: u, v"
+431,144,0,"General source, colour space: x, y"

@@ -1,0 +1,9 @@
+value,label,id,_serviceId
+Chromaticity response,5,145,44
+"Colour rendering, Ra",6,146,44
+"Colour, emitted",4,144,44
+Correlated colour temperature,2,142,44
+Correlated colour temperature response,3,143,44
+Distribution temperature,1,141,44
+"Radiance, total",7,147,44
+"Radiant flux, total",8,148,44

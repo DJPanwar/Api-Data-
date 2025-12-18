@@ -1,0 +1,4 @@
+value,label,id,_serviceId
+"AC voltage ratio up to 1100 V, atten & gain",3,32,15
+AC voltage up to 1100 V,2,31,15
+AC-DC voltage transfer,1,30,15

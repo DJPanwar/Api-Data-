@@ -1,0 +1,7 @@
+id,_subServiceId,label,value
+91,40,3,High values (above 1 megaohm)
+90,40,2,Intermediate values (from above 1 ohm up to 1 megaohm)
+89,40,1,Low values (below or equal to 1 ohm)
+93,40,5,Multiple ranges
+92,40,4,Standards for high current
+94,40,6,"Temperature, power and pressure coefficients"

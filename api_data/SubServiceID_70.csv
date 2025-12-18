@@ -1,0 +1,7 @@
+id,_subServiceId,label,value
+233,70,3,Attenuation in coaxial line (values in dB)
+234,70,4,Attenuation in waveguide (values in dB)
+235,70,5,"Directivity, effective source match"
+236,70,6,Reflection and attenuation measurements in balanced lines
+231,70,1,Reflection coefficient in coaxial line (values in linear terms)
+232,70,2,Reflection coefficient in waveguide (values in linear terms)

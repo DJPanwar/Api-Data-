@@ -1,0 +1,8 @@
+value,label,id,_serviceId
+AC high voltage and voltage transformers,3,51,22
+Electric discharge,5,53,22
+High AC current and current transformers,6,54,22
+High DC current,7,55,22
+High DC voltage,1,49,22
+High voltage impedance,2,50,22
+Pulsed high voltage and current,4,52,22

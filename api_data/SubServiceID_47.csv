@@ -1,0 +1,9 @@
+id,_subServiceId,label,value
+112,47,3,AC magnetic flux density and applied magnetic field strength
+114,47,5,AC shielding factor (ratio of AC magnetic flux density)
+111,47,2,DC magnetic flux density and applied magnetic field strength
+113,47,4,DC shielding factor (ratio of DC magnetic flux density)
+117,47,8,Magnetic field gradient
+110,47,1,Magnetic flux
+116,47,7,Magnetic flux density or magnetic field strength per unit current
+115,47,6,Turn area (ratio of magnetic flux and magnetic flux density)

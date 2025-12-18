@@ -1,0 +1,4 @@
+id,_subServiceId,label,value
+50,23,1,Charge sensitivity (modulus or phase)
+52,23,3,Current sensitivity (modulus or phase)
+51,23,2,Voltage sensitivity (modulus or phase)

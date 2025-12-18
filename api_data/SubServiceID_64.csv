@@ -1,0 +1,8 @@
+id,_subServiceId,label,value
+199,64,2,Coercive field strength
+202,64,5,Magnetic flux density
+201,64,4,Magnetic moment
+203,64,6,Magnetic polarisation
+200,64,3,Maximum energy product
+204,64,7,Relative recoil permeability
+198,64,1,Remanent magnetic flux density

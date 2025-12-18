@@ -1,0 +1,5 @@
+value,label,id,_serviceId
+Absolute pressure,1,115,37
+Differential pressure,3,117,37
+Dynamic pressure,4,118,37
+Gauge pressure,2,116,37

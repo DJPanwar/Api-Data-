@@ -1,0 +1,5 @@
+value,label,id,_serviceId
+Impedance head force measuring chain,4,10,4
+Impedance head force transducer,3,9,4
+Mechanical couplers (air),2,8,4
+Reference couplers or artificial ears (air),1,7,4

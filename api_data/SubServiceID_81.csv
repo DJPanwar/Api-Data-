@@ -1,0 +1,4 @@
+id,_subServiceId,label,value
+293,81,1,"External cylinder (plug, piston, pin, wire)"
+294,81,2,Internal cylinder (ring)
+295,81,3,Sphere (ball)

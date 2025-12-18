@@ -1,0 +1,5 @@
+id,_subServiceId,label,value
+255,74,4,Distorsion and harmonic content
+254,74,3,"Modulation, AM and FM"
+252,74,1,Pulse amplitude
+253,74,2,Pulse time parameters

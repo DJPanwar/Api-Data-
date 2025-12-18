@@ -1,0 +1,5 @@
+id,_subServiceId,label,value
+267,76,3,Capacitance
+266,76,2,Inductance
+268,76,4,Quality factor
+265,76,1,Resistance or conductance

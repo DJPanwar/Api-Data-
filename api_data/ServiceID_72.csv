@@ -1,0 +1,7 @@
+value,label,id,_serviceId
+Charge sensitivity,1,278,72
+Current sensitivity,5,290,72
+Shock charge sensitivity,2,279,72
+Shock Current sensitivity,6,291,72
+Shock voltage sensitivity,4,281,72
+Voltage sensitivity,3,280,72

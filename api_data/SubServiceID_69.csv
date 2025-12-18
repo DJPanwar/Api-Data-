@@ -1,0 +1,7 @@
+id,_subServiceId,label,value
+225,69,1,Absolute power in coaxial line
+226,69,2,Absolute power in waveguide
+227,69,3,Calibration factor and effective efficiency in coaxial line
+228,69,4,Calibration factor and effective efficiency in waveguide
+229,69,5,Non-CW power (absolute or relative)
+230,69,6,Power measurements in balanced lines

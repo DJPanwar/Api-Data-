@@ -1,0 +1,5 @@
+id,_subServiceId,label,value
+12,6,3,Diffuse field response level
+11,6,2,Free-field response level
+13,6,4,Sound intensity response level
+10,6,1,Sound pressure response level

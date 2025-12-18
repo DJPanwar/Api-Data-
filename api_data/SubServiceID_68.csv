@@ -1,0 +1,6 @@
+id,_subServiceId,label,value
+218,68,1,Main frequency harmonics
+221,68,4,Mains frequency fluctuating harmonics
+219,68,2,Mains frequency harmonic distorsion
+224,68,7,Mains frequency interharmonics
+222,68,5,Mains frequency voltage fluctuations

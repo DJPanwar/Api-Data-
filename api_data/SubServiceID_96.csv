@@ -1,0 +1,9 @@
+id,_subServiceId,label,value
+354,96,7,"(Flatness, wavefront) interferometer"
+350,96,3,CMM
+355,96,8,Form measuring machine
+351,96,4,Laser tracking measuring system
+349,96,2,Measuring microscope
+348,96,1,Measuring projector
+352,96,5,"Motion (translation, angle) stage"
+353,96,6,Profile instruments

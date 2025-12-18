@@ -1,0 +1,5 @@
+id,_subServiceId,label,value
+1092,224,4,Broadcast prediction of UTC by GNSS (bUTCGNSS) vs UTC
+1091,224,3,Broadcast prediction of UTC by GNSS (bUTCGNSS) vs UTC(NMI)
+561,224,2,Remote clock vs. UTC
+560,224,1,Remote clock vs. UTC(NMI)

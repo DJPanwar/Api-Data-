@@ -1,0 +1,11 @@
+id,_subServiceId,label,value
+189,61,8,Complex relative permeability
+190,61,9,Density
+184,61,3,Peak value of AC magnetic polarisation
+183,61,2,Peak value of DC magnetic polarisation
+185,61,4,Peak value of magnetic field strength
+188,61,7,Relative peak permeability
+182,61,10,Resistivity
+186,61,5,RMS value of magnetic field strength
+187,61,6,Specific apparent power
+181,61,1,Specific total power loss

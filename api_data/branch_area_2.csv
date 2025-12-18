@@ -1,0 +1,9 @@
+label,id,_areaId,value
+EM/AC,4,2,"AC voltage, current, and power"
+EM/DC,5,2,"DC voltage, current, and resistance"
+EM/Field,6,2,Electric and magnetic fields
+EM/HV,7,2,High voltage and current
+EM/Imped,8,2,Impedance up to the MHz range
+EM/Mater,9,2,Materials
+EM/OtherDC,10,2,Other DC and low frequency measurements
+EM/RF,11,2,Radio frequency measurements

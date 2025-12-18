@@ -1,0 +1,6 @@
+id,_subServiceId,label,value
+127,49,4,Average value of DC voltage
+125,49,2,High voltage meters
+124,49,1,High voltage sources
+126,49,3,Ratios
+128,49,5,RMS value of DC voltage ripple

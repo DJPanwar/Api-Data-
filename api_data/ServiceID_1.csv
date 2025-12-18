@@ -1,0 +1,5 @@
+value,label,id,_serviceId
+Diffuse field sensitivity level (air),3,3,1
+Electrostatic actuator normalized response,4,292,1
+Free-field sensitivity level (air),2,2,1
+Pressure sensitivity level (air),1,1,1

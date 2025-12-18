@@ -1,0 +1,7 @@
+id,_subServiceId,label,value
+134,51,2,Meters
+135,51,3,Peak values of high AC voltage
+138,51,6,Rectified average value of high AC voltage
+137,51,5,RMS value for high AC voltage
+133,51,1,Sources
+136,51,4,Voltage transformers: ratio error and phase displacement

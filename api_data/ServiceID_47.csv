@@ -1,0 +1,11 @@
+value,label,id,_serviceId
+"Colour, surface, Lab",2,175,47
+"Colour, surface, x, y, Y",1,172,47
+"Colour, transmitted, Lab",4,177,47
+"Colour, transmitted, x, y, Y",3,176,47
+Gloss,6,179,47
+Haze,7,180,47
+Luminance coefficient,10,173,47
+Luminance factor,9,181,47
+Retroreflectance,5,178,47
+Whiteness,12,174,47

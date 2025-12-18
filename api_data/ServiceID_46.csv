@@ -1,0 +1,18 @@
+value,label,id,_serviceId
+"Absorbance, diffuse, spectral",4,167,46
+"Absorbance, regular, spectral",3,166,46
+"Angle of rotation of polarization plane, spectral",17,163,46
+BRDF,11,157,46
+"Ellipsometric angles phi, delta, spectral",18,164,46
+Emissivity,9,171,46
+"Emittance, spectral",10,156,46
+Luminescent radiance factor,14,160,46
+Radiance factor,13,159,46
+Reflectance factor,12,158,46
+"Reflectance, diffuse, spectral",5,168,46
+"Reflectance, hemispherical, spectral",7,170,46
+"Reflectance, regular, spectral",6,169,46
+"Refractive index, spectral",16,162,46
+"Transmittance, diffuse, spectral",2,165,46
+"Transmittance, regular, spectral",1,155,46
+Wavelength,15,161,46

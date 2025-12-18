@@ -1,0 +1,4 @@
+value,id,_areaId,label
+Humidity,24,6,T/H
+Temperature,25,6,T/T
+Thermophysical quantities,26,6,T/TQ

@@ -1,0 +1,4 @@
+value,id,_areaId,label
+Sound in air,1,1,AUV/A
+Sound in water,3,1,AUV/W
+Vibration,2,1,AUV/V

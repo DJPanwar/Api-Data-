@@ -1,0 +1,4 @@
+value,id,_areaId,label
+Frequency,27,7,TF/F
+Time interval,28,7,TF/TI
+Time scale difference,29,7,TF/TSD

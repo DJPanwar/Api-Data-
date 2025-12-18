@@ -1,0 +1,4 @@
+id,_subServiceId,label,value
+78,36,1,Single phase at frequencies <= 400 Hz
+79,36,2,Single phase at frequencies > 400 Hz
+80,36,3,Three phase

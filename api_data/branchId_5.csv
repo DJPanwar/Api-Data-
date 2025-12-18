@@ -1,0 +1,4 @@
+id,label,value,_branchId
+20,3,DC current (up to 100 A),5
+19,2,DC resistance,5
+18,1,DC voltage (up to 1100 V),5

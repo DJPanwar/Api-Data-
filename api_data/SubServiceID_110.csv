@@ -1,0 +1,7 @@
+id,_subServiceId,label,value
+384,110,4,Flow speed
+382,110,2,Gas flow
+386,110,6,Heat flow
+381,110,1,Liquid flow
+385,110,5,Multiphase flow
+383,110,3,Quantity of fluid

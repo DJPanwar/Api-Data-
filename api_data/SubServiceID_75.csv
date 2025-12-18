@@ -1,0 +1,10 @@
+id,_subServiceId,label,value
+264,75,9,Flatness of RF voltage meters
+263,75,8,Flatness of RF voltage sources
+262,75,7,RF coupling factor
+259,75,4,RF current
+260,75,5,RF transfer impedance
+261,75,6,RF voltage division factor
+258,75,3,RF voltage meters
+257,75,2,RF voltage sources
+256,75,1,RF-DC difference

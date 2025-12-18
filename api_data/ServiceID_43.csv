@@ -1,0 +1,6 @@
+value,label,id,_serviceId
+"Irradiance, spectral",1,136,43
+"Power, spectral total radiant",3,138,43
+"Radiance, spectral",2,137,43
+"Radiant flux, spectral",5,140,43
+"Radiant intensity, spectral",4,139,43

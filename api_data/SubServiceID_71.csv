@@ -1,0 +1,10 @@
+id,_subServiceId,label,value
+241,71,5,"Directivity, effective source match"
+1025,71,8,Reflection coefficient (Sii) in planar line systems
+242,71,6,Reflection coefficient for common mode systems
+237,71,1,Reflection coefficient in coaxial line (real and imaginary)
+238,71,2,Reflection coefficient in waveguide (real and imaginary)
+1024,71,9,Transmission coefficient (Sij) in planar line systems
+243,71,7,Transmission coefficient for common mode systems
+239,71,3,Transmission coefficient in coaxial line (real and imaginary)
+240,71,4,Transmission coefficient in waveguide (real and imaginary)

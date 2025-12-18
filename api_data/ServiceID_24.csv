@@ -1,0 +1,8 @@
+value,label,id,_serviceId
+Dielectric properties,2,60,24
+Electrical conductivity,1,59,24
+"Feebly magnetic, paramagnetic and diamagnetic material",5,63,24
+Hard magnetic material,6,64,24
+Magnetic data storage media,7,65,24
+Soft magnetic bulk material,4,62,24
+Soft magnetic sheet and powder materials,3,61,24

@@ -1,0 +1,10 @@
+value,id,_areaId,label
+Density,14,4,M/Dens
+Fluid flow,15,4,M/FF
+Force,16,4,M/Force
+Gravity,37,4,M/Gra
+Hardness,36,4,M/Har
+"Mass, mass standards",17,4,M/Mass
+Pressure,18,4,M/Pres
+Torque,19,4,M/Tor
+Viscosity,35,4,M/Vis

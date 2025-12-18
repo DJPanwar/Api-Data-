@@ -1,0 +1,3 @@
+id,_subServiceId,label,value
+86,38,2,Intermediate values (from above 1 mV up to 1100 V)
+85,38,1,Very low values (below or equal to 1 mV)

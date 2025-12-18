@@ -1,0 +1,14 @@
+id,label,value,_branchId
+66,32,Acceleration calibrator,2
+67,33,Acceleration measuring chain / accelerometer,2
+65,31,Acceleration measuring instrument,2
+69,35,Angular acceleration calibrator,2
+70,36,Angular acceleration measuring chain / accelerometer,2
+68,34,Angular acceleration measuring instrument,2
+8,22,Angular vibration,2
+10,30,AUV auxiliary instruments and/or services,2
+9,23,Dynamic force,2
+72,38,Force measuring chain or force transducer for mechanical impedance and mobility measurements or modal testing,2
+71,37,Force measuring instrument for mechanical impedance and mobility measurements or modal testing,2
+7,21,Linear vibration,2
+73,45,Vibration signal conditioner,2

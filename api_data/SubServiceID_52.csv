@@ -1,0 +1,5 @@
+id,_subServiceId,label,value
+143,52,5,Parameters for impulse current
+139,52,1,Parameters for lightning impulse voltage
+147,52,9,Parameters for other impulse voltage types
+141,52,3,Parameters for switching impulse voltage

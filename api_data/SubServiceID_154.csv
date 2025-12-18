@@ -1,0 +1,7 @@
+id,_subServiceId,label,value
+1036,154,5,"Dispersion slope, measuring instrument"
+452,154,2,"Dispersion slope, optical fibre"
+1034,154,3,"Dispersion, measuring instrument"
+450,154,0,"Dispersion, optical fibre"
+1035,154,4,"Zero dispersion wavelength, measuring instrument"
+451,154,1,"Zero dispersion wavelength, optical fibre"

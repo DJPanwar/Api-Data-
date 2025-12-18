@@ -1,0 +1,9 @@
+value,label,id,_serviceId
+Attenuation,5,153,45
+Chromatic dispersion,7,154,45
+Fibre Polarization mode dispersion (inactive),11,151,45
+Length,10,150,45
+Modal properties,3,257,45
+Polarization mode dispersion,8,258,45
+Responsivity,1,149,45
+Wavelength,2,152,45

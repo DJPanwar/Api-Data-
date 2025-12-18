@@ -1,0 +1,4 @@
+id,_subServiceId,label,value
+1037,150,2,"Distance scale deviation, OTDR"
+441,150,0,"Length, optical fibre"
+442,150,1,"Location offset, OTDR"

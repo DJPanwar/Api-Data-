@@ -1,0 +1,4 @@
+id,label,value,_branchId
+17,7,AC and DC power,4
+16,6,AC current,4
+15,5,AC voltage (up to the MHz range),4

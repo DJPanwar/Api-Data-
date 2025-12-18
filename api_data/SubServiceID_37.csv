@@ -1,0 +1,5 @@
+id,_subServiceId,label,value
+83,37,3,Intermediate values (from above 10 V up to 1100 V)
+82,37,2,Low values (below or equal to 10 V)
+84,37,4,Noise voltages
+81,37,1,Single values

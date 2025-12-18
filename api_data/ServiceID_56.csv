@@ -1,0 +1,5 @@
+value,label,id,_serviceId
+Period meter,3,221,56
+Period source,1,219,56
+Time interval meter,4,222,56
+Time interval source,2,220,56

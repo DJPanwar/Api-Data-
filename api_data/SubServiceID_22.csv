@@ -1,0 +1,5 @@
+id,_subServiceId,label,value
+46,22,1,Charge sensitivity (modulus or phase)
+47,22,2,Shock charge sensitivity (modulus or phase)
+49,22,4,Shock voltage sensitivity (modulus or phase)
+48,22,3,Voltage sensitivity (modulus or phase)

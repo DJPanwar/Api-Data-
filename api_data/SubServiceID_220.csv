@@ -1,0 +1,5 @@
+id,_subServiceId,label,value
+552,220,4,Delay source
+550,220,2,Pulse width source
+549,220,1,Rise - fall time source
+551,220,3,Time difference source

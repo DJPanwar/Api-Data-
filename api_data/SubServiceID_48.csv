@@ -1,0 +1,7 @@
+id,_subServiceId,label,value
+118,48,1,Electric field strength
+119,48,2,Magnetic field strength
+122,48,5,Magnetic field strength per unit current
+121,48,4,Magnetic flux density
+120,48,3,Power flux density
+123,48,6,Turn area (ratio of magnetic flux and magnetic flux density)

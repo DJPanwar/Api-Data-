@@ -1,0 +1,13 @@
+value,label,id,_serviceId
+"Responsitivity, solar, spectral, irradiance",11,127,42
+"Responsivity, blackbody, total irradiance",8,134,42
+"Responsivity, laser, energy",5,131,42
+"Responsivity, laser, power",4,130,42
+"Responsivity, solar, irradiance",7,133,42
+"Responsivity, solar, power",6,132,42
+"Responsivity, spectral, irradiance",2,128,42
+"Responsivity, spectral, power",1,125,42
+"Responsivity, spectral, radiance",3,129,42
+"Responsivity, terrestrial irradiance",12,260,42
+"Responsivity, UV, broadband irradiance",9,135,42
+"Responsivity, UV, broadband radiant exposure",10,126,42

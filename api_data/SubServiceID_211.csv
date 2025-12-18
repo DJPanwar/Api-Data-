@@ -1,0 +1,7 @@
+id,_subServiceId,label,value
+529,211,1,Bridge linearity
+530,211,2,Compensation wires for cold junction
+534,211,6,Dry-well block calibrators
+533,211,5,Phase-transition temperature of reference materials
+532,211,4,Temperature indicators
+531,211,3,Wires for melting-point measurements for thermocouples

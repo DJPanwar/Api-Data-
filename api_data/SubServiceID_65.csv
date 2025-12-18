@@ -1,0 +1,9 @@
+id,_subServiceId,label,value
+211,65,7,Overwrite of diskettes
+210,65,6,Peak shift of diskettes
+207,65,3,Reference field of diskettes
+209,65,5,Resolution of diskettes
+208,65,4,Signal amplitude of diskettes
+205,65,1,Signal amplitude of magnetic stripes
+206,65,2,Surface profile of magnetic stripes
+212,65,8,Video and audio tapes

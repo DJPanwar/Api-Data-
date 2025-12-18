@@ -1,0 +1,4 @@
+value,label,id,_serviceId
+DC current meters,2,44,20
+DC current ratios,3,45,20
+DC current sources,1,43,20

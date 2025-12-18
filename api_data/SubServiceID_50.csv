@@ -1,0 +1,5 @@
+id,_subServiceId,label,value
+131,50,3,Burden: real and imaginary component (real component/imaginary component/modulus/argument)
+129,50,1,Capacitance and dissipation factor
+130,50,2,Inductance and loss angle
+132,50,4,Resistance

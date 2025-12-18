@@ -1,0 +1,7 @@
+id,_subServiceId,label,value
+174,58,5,Meters
+173,58,4,Mutual inductance
+175,58,6,Quality factor
+172,58,3,"Self inductance, high values (above 1 H)"
+171,58,2,"Self inductance, intermediate values (from 1 mH up to 1 H)"
+170,58,1,"Self inductance, low values (below 1 mH)"

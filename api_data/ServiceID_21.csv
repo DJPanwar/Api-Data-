@@ -1,0 +1,4 @@
+value,label,id,_serviceId
+Electric fields at freq. below 50 kHz,1,46,21
+Electromagnetic fields at freq. above 50 kHz,3,48,21
+Magnetic fields at freq. below 50 kHz,2,47,21

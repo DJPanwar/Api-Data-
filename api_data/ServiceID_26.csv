@@ -1,0 +1,10 @@
+value,label,id,_serviceId
+Antenna properties,5,73,26
+Lumped impedance - admittance,8,76,26
+Noise,4,72,26
+RF characteristic impedance,9,77,26
+RF power,1,69,26
+RF voltage and current,7,75,26
+Scalar RF reflection coef. and attenuation,2,70,26
+Scattering parameters (vectors),3,71,26
+Signal and pulse characteristics,6,74,26

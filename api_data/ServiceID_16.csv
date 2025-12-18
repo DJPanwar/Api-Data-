@@ -1,0 +1,4 @@
+value,label,id,_serviceId
+AC current ratio up to 100 A,3,35,16
+AC current up to 100 A,2,34,16
+AC-DC current transfer,1,33,16

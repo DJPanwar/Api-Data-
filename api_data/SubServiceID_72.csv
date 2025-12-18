@@ -1,0 +1,6 @@
+id,_subServiceId,label,value
+246,72,3,Amplifier noise parameters
+244,72,1,Noise temperature or excess noise ratio in coaxial line
+245,72,2,Noise temperature or excess noise ratio in waveguide
+247,72,4,Phase noise
+248,72,5,"Radio brightness temperature, spectral radiance in free space"

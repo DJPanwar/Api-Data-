@@ -1,0 +1,5 @@
+label,id,_areaId,value
+PR/Fibre,21,5,Fibre optics
+PR/Photo,23,5,Photometry
+PR/Detector,20,5,Properties of detectors and sources
+PR/Mater,22,5,Properties of materials

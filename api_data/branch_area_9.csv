@@ -1,0 +1,4 @@
+label,id,_areaId,value
+DOS,32,9,Dosimetry
+NEU,34,9,Neutron Measurements
+RAD,33,9,Radioactivity
